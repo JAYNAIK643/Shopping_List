@@ -1,0 +1,54 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .purchased {
+    text-decoration: line-through;
+    color: gray;
+  } */
+  /* h1{
+    color: aqua;
+    line-height: 10rem;
+    text-align: center;
+  }
+  #addItemForm{
+    text-align: center;
+  }
+  #background{
+    height: 100%;
+    width: 100%;
+    background-image: url(bg-image.webp);
+    
+  }
+  #itemName:hover{
+    background-color: rgb(229, 103, 103);
+    color: black;
+
+  }
+  #itemQuantity:hover{
+    background-color: rgb(229, 103, 103);
+    color: black;
+
+
+  }
+  .main{
+    background-color: aqua;
+    height: 100%;
+    width: 100%;
+  } */
